@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" >
+
+    <title>KAVIYA PERIYASAMY</title>
+  </head>
+ <h1>KAVIYA PERIYASAMY</h1>
+<body>
+<div class="container">
+<!---menu start--->
+</nav><nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">PROFILE</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#ab">ABOUT ME <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#edu">EDUCATION</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#skill">SKILLS</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#ref">CONTACTS</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<!--menu end-->
+<!--about me start-->
+<section>
+<div class="container" id="ab">
+<div class="row">
+<div class="col-4"> <img src="img/1.jpg" class="img-fluid" alt="Responsive image">
+<div class="col-19"> <h2> kaviya.3111999@gmail.com </h2>
+</div>
+</div>
+</section>
+<!--about me end-->
+<!--edu start-->
+<section>
+<div class="container" id="edu">
+<div class="row">
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">S.NO.</th>
+      <th scope="col">Course/Degree</th>
+      <th scope="col">percentage</th>
+      <th scope="col">year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>SSLC</td>
+      <td>90%</td>
+      <td>2014</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>HSC</td>
+      <td>92%</td>
+      <td>2016</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>B.E.</td>
+      <td>93%</td>
+      <td>2020</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</section>
+<!--edu end-->
+<!--contact start-->
+<section>
+<div class="container" id="ref">
+<div class="row">
+
+</section>
+
+<!--contact end-->
+
+
+
+</div>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"></script>
+    <script src="js.popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
